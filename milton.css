@@ -1,0 +1,484 @@
+.header{
+    width:1331px;
+    height: 52.99px;
+    background:#ea2127
+}
+h3{
+    font-size: 28px;
+    color:white;
+}
+
+.footersecond{
+    width: 1257px;
+    height: 52.99px;
+    margin-left: auto;
+    margin-right:auto;
+}
+.logo{
+    width: 120px;
+    height: 52.99px;
+    float: left;
+}
+.menu{
+    width: 990.32px;
+    height: 52.99px;
+    float: left;
+    padding:left="20px";
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+.search{
+    width:145.99px;
+    height: 52.99px;
+    float: left;
+    font-family: "Avenir-Book";
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:#fff;
+}
+.milton{
+    width: 119px;
+    height: 31.99px;
+    float: left;  
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+.listsss{
+    list-style: none;
+    display: inline-block;
+}
+.rows{
+    text-decoration: none;
+    color:#fff;
+    padding: 0 8px 10px 8px
+}
+.listing{
+    display: flex;
+    align-items: center;
+}
+.container{
+    width:1323px;
+    height: 1714px;
+}
+.home{
+    width:1323px;
+    height:605px;
+    background-image: url("homepage.jpeg");
+    padding-top: 15px;
+}
+.images{
+    width:1323px;
+    height:1090px;
+}
+.firstrow{
+width:1323px;
+height: 648px;
+}
+.tiffin{
+    margin-top: 3px;
+    width:438.74px;
+    margin-right: 3px;
+    height:310.09px;
+    margin-bottom: 3px;
+    background-image: url("tiffins_home-banner.jpg");
+    background-size: 100%;
+    float: left;
+    padding-top: 15px;
+}
+.homeessentials{
+    width:880.48px;
+    height:333.49px;
+  background-image: url("home-essential_home-banner.jpg");
+  background-size: 100%;
+    float: left;
+    margin-top: -336px;
+}
+.casserols{
+    width: 438.74px;
+        height: 310.09px;
+        background-image: url(casserole_homepage.jpg);
+        background-size: 100%;
+        float: left;
+        margin-top: 3px;
+        margin-right: 3px;
+        padding-top: 15px;
+}
+.bottles{
+    width:438.74px;
+    height:661.27px;
+    float: left;
+    background-image: url("bottles_home-banner.jpg");
+    background-size: 100%; 
+    margin-top: 3px;  
+    margin-bottom:3px;
+}
+.images2{
+    width:1323px;
+    height:442px ;
+}
+.cook{
+    width:439px;
+    height:427px;
+    background-image: url("cast-iron_square_final.jpg");
+    background-size: 100%;
+    float: left;
+    margin-right: 3px;
+}
+.bathessentials{
+    width:439px;
+    height: 427px;
+    float: left;
+    background-image: url("bathroom_square.jpg");
+    background-size: 100%;
+    margin-right: 3px;
+}
+.kidsbottles{
+    width:439px;
+    height:427px;
+    background-image: url("kids-bottles_square_final.jpg");
+    background-size: 100%;
+    float: left;
+}
+.icons{
+    width:1271px;
+    height:152px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+.text{
+    width:616px;
+    height:152px;
+
+}
+.iconimages{
+    width:300px;
+    height: 152px;
+    margin-left: 355px;
+    display: flex;
+    justify-content:space-between;
+}
+h1{
+    font-size: 60px;
+    margin-top: 0px;
+    margin-left: 20px;
+    color: white;
+}
+bath{
+    font-size:30px;
+    margin-top:5px;
+    color:white;
+}
+.heading{
+    font-size:60px;
+    margin-left: 20px;
+    margin-top: -61px;
+}
+img{
+height:104px;
+width: 100px;
+padding-top: 22px;
+}
+.homeicon{
+    width:100px;
+    height:104px
+}
+.contents{
+    width:409px;
+    height: 139px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.text2{
+    height:139px;
+    width:205px;
+
+}
+.iconimages2{
+    height:124px;
+    width:204px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+}
+.pic1{
+    width:102px;
+    height: 124px;
+}
+.contents2{
+    width:409px;
+    height: 139px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.text3{
+    height:139px;
+    width:205px;
+}
+.footer{
+    height:365px;
+    width: 100%;
+    padding-top: 71px;
+    background:white;
+}
+.inside{
+    height: 260px;
+    width:100%;
+    color:#e2e0e0;
+}
+.firstfooter{
+    height: 255px;
+    width:903px;
+    margin-left:20px;
+    margin-right: auto;
+    float: left;
+}
+.input{
+    height: 245px;
+    width:400px;
+    float:left;
+}
+body{
+    margin:0px;
+}
+.footerletter{
+    width:320px;
+    height:40px;
+    float: left;
+    margin-left:10px;
+    margin-right:10px;
+}
+.support{
+    padding:top:50px;
+}
+.sub{
+    background: #ea2127;
+    border: 0;
+    width: 32%;
+    padding: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+.emailinput{
+    padding-top: 20px;
+    border: 0;
+    width: 65%;
+    background: white;
+}
+.newsletter{
+    width:350px;
+    height:207px;
+    float:left;
+    margin-right: 20px;
+    margin-left: 15px;
+    margin-top:0px;
+    
+}
+.newsl{
+    font-family: "Avenir-Heavy";
+    margin-bottom: 20px;
+    color: #6a6a6a;
+    padding-left: 12px;
+    font-size:20px;
+}
+.menus{
+    width:182.68px;
+    height: 242.3px;
+    float:left;
+    margin-left: 20px;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 2;
+    margin-right:20px;
+    padding-left: 0px;
+}
+.drinkware{
+    width:110px;
+    height: 377px;
+    float:left;
+    margin-left: 20px;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 2;
+        margin-right: 20px;
+    
+}
+.whole{
+    width:100px;
+    height: 500px;
+    float: left;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    font-family:"Avenir-Book";
+    color:#CCCCCC
+}
+.contents3{
+    width:409px;
+    height: 139px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top:20px;
+}
+.text4{
+    height:139px;
+    width:205px;
+}
+.iconimages3{
+    height:124px;
+    width:204px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+}
+.iconimages4{
+    height:124px;
+    width:200px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+    margin-top:0px;
+}
+.content4{
+    width:405px;
+    height: 139px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top:20px;
+}
+.text5{
+    height:139px;
+    width:200px;
+}
+.pro{
+    size: 20px;
+}
+.iconimage5{
+    height:124px;
+    width:247px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+    margin-top:0px;
+}
+.content5{
+    width:405px;
+    height: 139px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top:20px;
+}
+.text6{
+    height:139px;
+    width:205px;
+}
+.iconimage6{
+    height:124px;
+    width:247px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+    margin-top:0px;
+}
+.content6{
+    width:405px;
+    height: 139px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top:20px;
+}
+.text7{
+    height:139px;
+    width:205px;
+}
+.iconimage7{
+    height:124px;
+    width:247px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+    margin-top:0px;
+}
+.contentss{
+    width:794px;
+    height: 115px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top:20px;
+}
+.texts{
+    height:109px;
+    width:397px;
+}
+.iconimagess{
+    height:109px;
+    width:277px;
+    display: flex;
+    justify-content: start;
+    padding-top: 0px;
+    margin-top:0px;
+    margin-left: 355px;
+}
+.menulist{
+    padding-left: 40px;
+    color: #333;
+    font-variant: underline;
+    font-size: 20px;
+    width:200px;
+}
+.drinkware{
+    width:200px;   
+}
+.drink{
+    padding-left: 0px;
+}
+.food{
+    padding-right: 100px;
+}
+.copyright{
+    width:1182px;
+    margin-left: auto;
+    margin-right: auto;
+    height:60px;
+    padding-bottom:20px;
+    border-top: 1px solid
+}
+.copyrighttext{
+    width:1100px;
+    margin-left:auto;
+    margin-right:auto;
+    height:42px;
+    padding-left:0px;
+}
+.origin{
+    width:475px;
+    margin-left:20px;
+    margin-right:auto;
+    height: 40px;
+    padding-top: 1px;
+    float:left;
+
+}
+.copyrighticon{
+    width:307px;
+    margin-left: 50px;
+    float:left;
+    height:42px ;
+
+}
+.fun{
+    color: black;
+}
